@@ -90,6 +90,8 @@ Write a brief note about the results of simulating a simple electric circuit by 
 We observed that when we connect the whole circuit and keep resistance 1k ohm the light glows brighter than keeping the resistance 2k ohm and when the resistance is 3k ohm light doesn"t glow due to high resistance and lastly when there is no resistance the light glows the broghtest but gets damaged due to current overflow'
 Hence, we observed that when resistance is high current flow is less and vice versa.
 
+```
+
 **3.2.	Simulating a simple electric circuit by using a breadboard to connect components.**
 
 `As shown in the given figure, use a breadboard to connect components used in the simulation circuit of 3.1.`
@@ -102,7 +104,7 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+We observed that when we connect the whole circuit and keep resistance 1k ohm the light glows brighter than keeping the resistance 2k ohm and when the resistance is 3k ohm light doesn"t glow due to high resistance and lastly when there is no resistance the light glows the broghtest but gets damaged. and if we change the direction of led connection it wont glow as anode of the bulb should connect to positive of power source and cathod should be connected to negative source of power.
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
